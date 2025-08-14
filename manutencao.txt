@@ -1,0 +1,16 @@
+Para manutenção e adaptação do script siga/entenda os seguintes fatores:
+
+$dominioUPN = "[SEU DOMINIO]" , insira o dominio do seu servidor
+
+$grupoDestino = "[SEU_GRUPO]" ,  para o caso de insersao de multiplos USERs recomenda-se
+a insersão dos mesmos em um unico grupo para facilitar manutenção. (GARANTA QUE SEJAM
+USERs DO MESMO TIPO).
+
+$caminhoOU = "OU=Alunos,OU=Direito,OU=Dourados,DC=unifron,DC=local" , para este valor
+é nescessario adquirir o Distinguished Name , caso não saiba como fazer o seu , basta
+ir na Unidade Organizacional na qual deseja, selecionar propriedade e ir procurar O
+Distinguished Name em Attribute Editor.
+
+$caminhoCSV = "[PATH]", coloque o caminho do arquivo csv
+
+

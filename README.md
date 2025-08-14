@@ -1,0 +1,1 @@
+Sistema de automação de criaçãod e USERs em WINDONS SERVER, atraves de um programa em python que extrai, com ajuda da biblioteca pandas, dados de uma tabela para um arquivo CSV e usa um script em ps1 para a criação dos USERs
